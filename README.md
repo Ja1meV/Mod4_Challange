@@ -1,6 +1,6 @@
 # Mod4_Challange
 
-# Mod4 Challenge Risk Reward Analysis* 
+# Mod4 Challenge Risk Reward Analysis 
 
 This is a Jupyter lab program that will review the porfolio of 4 companies. Soros Fund Management Inc, Paulson & CO.INC, Tiger Global Management LLC, Berkshire Hathaway Inc and determine the risk reward compare to the S&P500.
 ## Technologies
